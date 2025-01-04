@@ -46,7 +46,7 @@ Bills.
 1. Clone the Repository:
 
    bash  
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/BhorAarti/TechTrove.git
 
 2. Database Setup:  
    * Create a new database in your preferred DBMS.  
